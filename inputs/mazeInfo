@@ -1,0 +1,22 @@
+// public tests
+maze1: 
+maze2: same as maze1, with paths
+maze3:
+maze4: 
+
+maze5: maze1, but start cell has no exits
+
+maze6: maze2, with a third path
+
+maze7: larger maze, blocked in middle
+
+maze8: maze7, but removed block and added paths
+
+maze9: maze1, used to test parsing and simplification
+
+maze10: maze1, used to test parsing and simplification (with paths)
+
+
+
+
+
